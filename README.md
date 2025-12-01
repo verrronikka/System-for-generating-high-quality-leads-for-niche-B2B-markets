@@ -65,7 +65,6 @@
 
 ## Быстрый старт
 
-1. **Создайте виртуальное окружение и установите зависимости:**
    ```bash
    python -m venv .venv
    source .venv/bin/activate  # Linux/macOS
